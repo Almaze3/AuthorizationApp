@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759323734821",
+    "project_id": "slaythetrash",
+    "storage_bucket": "slaythetrash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759323734821:android:80fa56e53d6850d5c760cc",
+        "android_client_info": {
+          "package_name": "com.stolyar.authorization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759323734821-6t3u0pf752gopdf4me8hdqg8bu796b5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ejpUbDPLoPOPcf001YKgOmxvXdn9Vsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759323734821-6t3u0pf752gopdf4me8hdqg8bu796b5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
